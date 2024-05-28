@@ -1,5 +1,4 @@
-
-<br/><br/>
+<br/>
 <h3 align="center">
     <samp>&gt; Hey There!, I am
         <b><a target="_blank" href="https://meselhy.dev">Abdalla Meselhy</a></b>
@@ -8,10 +7,8 @@
 <p align="center"> 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=1D2931&center=true&vCenter=true&random=false&width=435&lines=FullStackDeveloper();BugSquasher();ChessGamer()" alt="Typing SVG" />
 </p>
-
 <p align="center"> 
-<img align="center" width="50%" src="![developer](https://github.com/meselhy/meselhy/assets/76181509/3651ed0d-48ea-48dc-a633-0b0e956f9a69)
-" alt="Developer gif" />
+<img align="center" width="30%" src="developer.gif" alt="Developer gif" />
 </p>
 
 #
