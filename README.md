@@ -5,7 +5,7 @@
     </samp>
 </h3>
 <p align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=1D2931&center=true&vCenter=true&random=false&width=435&lines=FullStackDeveloper();BugSquasher();ChessGamer()" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=1D2931&center=true&vCenter=true&random=false&width=435&lines=CodeCrusader();BugBanisher();AlgorithmAlchemist();RecursionWhisperer();SyntaxSorcerer();" alt="Typing SVG" />
 </p>
 <p align="center"> 
 <img align="center" width="30%" src="developer.gif" alt="Developer gif" />
